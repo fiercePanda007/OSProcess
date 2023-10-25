@@ -3,6 +3,8 @@
 #include<sys/types.h>
 #include<sys/wait.h>
 
+//forgit
+
 int main(){
     int fd[2],n;
     char buffer[100];
