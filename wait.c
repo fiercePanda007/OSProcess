@@ -2,7 +2,7 @@
 #include<sys/types.h>
 #include<stdio.h>
 #include<sys/wait.h>
-
+//no wayyyy
 
 int main(){
     pid_t q;
